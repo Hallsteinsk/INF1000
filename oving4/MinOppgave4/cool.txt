@@ -1,0 +1,23 @@
+1, Airplane Boneyard
+32 08 59,96 N 110 50 09,03 W
+Tucson, Arizona
+
+2, Mysterious Desert Pattern
+27 22 50,10 N  33 37 54,62 E
+Red Sea Governorate, Egypt
+
+3, Swastika-Shaped Building Complex
+32 40 34,19 N  117  9 27,58 W
+Coronado, California, USA
+
+4, Buffalo Herd
+4 17 21,49 S  31 23 46,46 E
+Kigosi Game Reserve, Tanzania
+
+5. The Badlands Guardian
+50 0 38,20 N 110 6 48,32 W
+Walsh, Alberta, Canada
+
+6. Firefox Logo
+45 7 25,87 N 123 6 48,97 W
+Dayton, Oregon, USA

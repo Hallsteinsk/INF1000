@@ -1,0 +1,3 @@
+Lag ett kassapparat hvor man kan "scanne" inn daglivarer. Disse varene skal noteres ned på en kvitering som kan skrives ut. Summen av prisen på alle varene skal også skrives ut.
+
+Bonus, lag et grensesnitt slik at nye daglivarer skrives inn i terminalen av en bruker. 

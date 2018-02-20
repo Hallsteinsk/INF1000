@@ -1,0 +1,8 @@
+a)
+Innkapsling er at deler av koden er gjemt inni objekter og metoder. Fordelen er at man kan gjemme deler av koden bak ett grensesnitt. Da kan en bruker skjønne hva koden gjør, uten å finlese alle linjene. 
+
+b) 
+Grensesnittet til en klasse er metodene som andre objekter bruker for å komunisere med klassen eller manipuler verdier inne i klassen. Implementasjonen av en klasse er alle metoder og variabler inni den. Disse er gjerne innkapslet og "gjemt" for omverdenen. Kun grensesnittet er synlig utad. 
+
+c) 
+En instansmetode tilhører kun en instansiering av klassen. En statisk metode tilhører alle...

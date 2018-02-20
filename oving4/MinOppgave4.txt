@@ -1,0 +1,12 @@
+Tekstdokumentet "cool.txt" inneholder noen gps koordinater til steder som kan være gøy å søke opp i google maps. Kilden til disse koordinatene er: http://twistedsifter.com/2014/02/50-amazing-finds-on-google-earth/
+
+Desverre har formateringen blitt litt snodig... Lag et program som tar inn koordinatene til "cool.txt" og skriver dem ut i terminalen på følgende måte:
+
+hva : plassering
+koordinater
+
+eks:
+
+Airplane Boneyard: Tucson, Arizona 
+32°08'59.96"N, 110°50'09.03"W
+

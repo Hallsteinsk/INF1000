@@ -1,0 +1,6 @@
+Oppgave 3.5
+-Lage en klasse som inneholder navn, ID og stilling til en ansatt. Lag metoder for å lese og skrive data til disse verdiene. 
+
+-Lag en liste med ansatte. Få bruker til å skrive inn navn, id og stilling til de ansatte. Skriv til slutt ut alle ansatte til terminalvinduet. 
+
+Denne oppgaven bruker filene MinOppgave3.java og Employee.java

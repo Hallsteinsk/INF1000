@@ -1,0 +1,3 @@
+- Jeg synes innleveringen var helt grei. Ikke spessielt vanskelig, men jeg brukte en del tid på den likevel. Grei økning i vanskelighetsgrad i forhold til forrige øving.
+- Brukte ca 5 timer til sammen. 
+- Tror jeg fikk til alle oppgavene. 

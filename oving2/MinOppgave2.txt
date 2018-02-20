@@ -1,0 +1,2 @@
+Oppgave 2.5. MinOppgave2
+Lag ett program som sorterer en liste. Bruker skal skrive inn heltall til en liste. Denne skal så sorteres og skrives til terminalvinduet. Benytt metoder for å lese data fra bruker, skrive listen til terminalen, og gjøre sorteringen. 
